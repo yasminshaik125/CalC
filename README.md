@@ -1,11 +1,11 @@
-About the Project
+About the Project:
 
 This project is a web-based calculator application built using core web technologies.
 It focuses on implementing calculator logic, handling user interactions, and creating a clean, modern user interface.
 
 The project was created as part of my learning journey in software engineering and frontend development.
 
- Features
+Features:
 
 ➕➖✖️➗ Basic arithmetic operations
 
@@ -23,7 +23,7 @@ The project was created as part of my learning journey in software engineering a
 
  Optional button click sound
 
- Technologies Used
+Technologies Used:
 
 HTML5 – Structure of the application
 
@@ -31,7 +31,7 @@ CSS3 – Styling, layout, and animations
 
 JavaScript (ES6) – Logic, DOM manipulation, and events
 
- Purpose
+Purpose:
 
 The main objectives of this project are:
 
@@ -44,13 +44,13 @@ To build a complete, functional frontend project
 To practice using GitHub for project hosting
 
 
-Note
+Note:
 
 This project is created for learning and practice purposes.
 More features and improvements can be added in the future.
 
- Author
+Author:
 
 Shaik Yasmin
-Aspiring Software Engineer
-Computer Science Engineering Student
+Aspiring Software Engineer,
+Computer Science Engineering Student.
